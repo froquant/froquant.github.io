@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 
 Helvetica or Neue Haas Grotesk is a widely used sans-serif typeface developed in 1957 by Swiss typeface designer Max Miedinger with input from Eduard Hoffmann.
